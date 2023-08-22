@@ -1,0 +1,39 @@
+'It will not last,' said O'Brien. 'Look me in the eyes. What country is Oceania at war with?' 
+Winston thought. He knew what was meant by Oceania and that he himself was a citizen of Oceania. He also remembered Eurasia and Eastasia; but who was at war with whom he did not know. In fact he had not been aware that there was any war. 
+'I don't remember.' 
+'Oceania is at war with Eastasia. Do you remember that now?' 
+'Yes.' 
+'Oceania has always been at war with Eastasia. Since the beginning of your life, since the beginning of the Party, since the beginning of history, the war has continued without a break, always the same war. Do you remember that?' 
+'Yes.' 
+'Eleven years ago you created a legend about three men who had been condemned to death for treachery. You pretended that you had seen a piece of paper which proved them innocent. No such piece of paper ever existed. You invented it, and later you grew to believe in it. You remember now the very moment at which you first invented it. Do you remember that?' 
+'Yes.' 
+'Just now I held up the fingers of my hand to you. You saw five fingers. Do you remember that?' 
+'Yes.' 
+O'Brien held up the fingers of his left hand, with the thumb concealed. 
+'There are five fingers there. Do you see five fingers?' 
+'Yes.' 
+And he did see them, for a fleeting instant, before the scenery of his mind changed. He saw five fingers, and there was no deformity. Then everything was normal again, and the old fear, the hatred, and the bewilderment came crowding back again. But there had been a moment -- he did not know how long, thirty seconds, perhaps -- of luminous certainty, when each new suggestion of O'Brien's had filled up a patch of emptiness and become absolute truth, and when two and two could have been three as easily as five, if that were what was needed. It had faded but before O'Brien had dropped his hand; but though he could not recapture it, he could remember it, as one remembers a vivid experience at some period of one's life when one was in effect a different person. 
+'You see now,' said O'Brien, 'that it is at any rate possible.' 
+'Yes,' said Winston. 
+
+
+alexsandra
+
+
+ char data1[] = {"'It will not last,' said O'Brien. 'Look me in the eyes. What country is Oceania at war with?'\r"
+                    "Winston thought. He knew what was meant by Oceania and that he himself was a citizen of Oceania. He also remembered Eurasia and Eastasia; but who was at war with whom he did not know. In fact he had not been aware that there was any war.\r"
+                    "'I don't remember.'\r"
+                    "'Oceania is at war with Eastasia. Do you remember that now?'\r"
+                    "'Yes.'\r"
+                    "'Oceania has always been at war with Eastasia. Since the beginning of your life, since the beginning of the Party, since the beginning of history, the war has continued without a break, always the same war. Do you remember that?'\r"
+                    "'Yes.'\r"
+                    "'Eleven years ago you created a legend about three men who had been condemned to death for treachery. You pretended that you had seen a piece of paper which proved them innocent. No such piece of paper ever existed. You invented it, and later you grew to believe in it. You remember now the very moment at which you first invented it. Do you remember that?'\r"
+                    "'Yes.'\r"
+                    "'Just now I held up the fingers of my hand to you. You saw five fingers. Do you remember that?'\r"
+                    "'Yes.'\r"
+                    "O'Brien held up the fingers of his left hand, with the thumb concealed.\r"
+                    "'There are five fingers there. Do you see five fingers?'\r"
+                    "'Yes.'\r"
+                    "And he did see them, for a fleeting instant, before the scenery of his mind changed. He saw five fingers, and there was no deformity. Then everything was normal again, and the old fear, the hatred, and the bewilderment came crowding back again. But there had been a moment -- he did not know how long, thirty seconds, perhaps -- of luminous certainty, when each new suggestion of O'Brien's had filled up a patch of emptiness and become absolute truth, and when two and two could have been three as easily as five, if that were what was needed. It had faded but before O'Brien had dropped his hand; but though he could not recapture it, he could remember it, as one remembers a vivid experience at some period of one's life when one was in effect a different person.\r"
+                    "'You see now,' said O'Brien, 'that it is at any rate possible.'\r"
+                    "'Yes,' said Winston. "};
